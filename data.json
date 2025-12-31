@@ -1,36 +1,10 @@
 {
-  "monthlyData": {
-    "month": "December 2025",
-    "temperature": "45-55°F (7-13°C)",
-    "humidity": "65-75%",
-    "maleFragrance": {
-      "name": "Dior Sauvage Elixir",
-      "brand": "Dior",
-      "imageUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400",
-      "longevity": "10-12 hours",
-      "sillage": "Heavy",
-      "notes": {
-        "top": "Grapefruit, Cinnamon",
-        "heart": "Lavender, Nutmeg",
-        "base": "Licorice, Sandalwood, Amber, Patchouli"
-      },
-      "breakdown": "Perfect for cold December weather...",
-      "whyThisMonth": "The rich, spicy notes...",
-      "retailers": [
-        { "name": "FragranceNet", "url": "https://...", "price": "$165" }
-      ]
-    },
-    "femaleFragrance": {
-      "name": "Lancôme La Vie Est Belle",
-      "brand": "Lancôme",
-      "imageUrl": "https://...",
-      "longevity": "8-10 hours",
-      "sillage": "Moderate",
-      "notes": { "top": "...", "heart": "...", "base": "..." },
-      "breakdown": "...",
-      "whyThisMonth": "...",
-      "retailers": []
-    }
+  "male_fragrance": {
+    "name": "Dior Sauvage",
+    "description": "A fresh, spicy, and woody fragrance ideal for summer months."
   },
-  "rareDiscoveries": []
+  "female_fragrance": {
+    "name": "Chanel Chance Eau Tendre",
+    "description": "A light, fruity floral perfume perfect for warm weather."
+  }
 }
