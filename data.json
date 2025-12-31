@@ -1,36 +1,36 @@
 {
   "fragrances": [
     {
-      "name": "Acqua Di Gio",
-      "imageUrl": "https://www.giorgioarmanibeauty-usa.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-masterCatalog_GAB/default/dw0d3f1446/images/hi-res/Acqua-Di-Gio-Eau-De-Toilette.png?sw=325&sh=325&sm=fit&q=70",
+      "name": "Chanel Bleu de Chanel Eau de Toilette 100ml",
       "retailers": [
         {
-          "name": "Official Giorgio Armani",
-          "url": "https://www.giorgioarmanibeauty-usa.com/products/acqua-di-gio-eau-de-toilette",
-          "price": 130.00
+          "name": "Chanel Official",
+          "url": "https://www.chanel.com/us/fragrance/p/107460/bleu-de-chanel-eau-de-toilette-spray/",
+          "price": "$135"
         },
         {
           "name": "Sephora",
-          "url": "https://www.sephora.com/product/acqua-di-gio-P387710",
-          "price": 130.00
+          "url": "https://www.sephora.com/product/bleu-de-chanel-p311263",
+          "price": "$135"
         }
-      ]
+      ],
+      "imageUrl": "https://www.chanel.com/images/bleu-de-chanel-107460-100ml-EDT.jpg"
     },
     {
-      "name": "Chanel No 5",
-      "imageUrl": "https://www.chanel.com/images/q_auto,f_auto,fl_lossy,dpr_auto/w_600/p/108140-01-no5-eau-de-parfum-spray.png",
+      "name": "Dior Sauvage Eau de Toilette 100ml",
       "retailers": [
         {
-          "name": "Official Chanel",
-          "url": "https://www.chanel.com/us/fragrance/p/108140/no5-eau-de-parfum-spray",
-          "price": 135.00
+          "name": "Dior Official",
+          "url": "https://www.dior.com/en_us/products/beauty-Y0995915-sauvage-eau-de-toilette",
+          "price": "$135"
         },
         {
-          "name": "Macy's",
-          "url": "https://www.macys.com/shop/product/chanel-no-5-eau-de-parfum-spray-35-oz?ID=5430234",
-          "price": 135.00
+          "name": "Sephora",
+          "url": "https://www.sephora.com/product/sauvage-p427011",
+          "price": "$135"
         }
-      ]
+      ],
+      "imageUrl": "https://www.dior.com/couture/beauty/makeup/men/perfume-sauvage-eau-de-toilette-100ml-540x540.jpg"
     }
   ]
 }
