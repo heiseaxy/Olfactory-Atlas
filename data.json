@@ -1,1 +1,24 @@
-{}
+{
+  "bags": [
+    {
+      "name": "Fendi Grip Pop Mini",
+      "price": "N/A",
+      "retailer_link": "https://www.fendi.com/us/fendi-grip-pop-mini"
+    },
+    {
+      "name": "Gucci Diana 2001",
+      "price": "N/A",
+      "retailer_link": "https://www.gucci.com/us/en/pr/women/handbags/womens-handbags"
+    },
+    {
+      "name": "Prada Re-Edition 2000",
+      "price": "$1,250",
+      "retailer_link": "https://www.prada.com/us/en/men/bags.html"
+    },
+    {
+      "name": "Chanel 22 Bag",
+      "price": "N/A",
+      "retailer_link": "https://www.chanel.com/us/fashion/p/F68272Y25123N6134/chanel-22-bag/"
+    }
+  ]
+}
