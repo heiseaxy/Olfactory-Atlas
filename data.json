@@ -1,24 +1,36 @@
 {
-  "bags": [
+  "fragrances": [
     {
-      "name": "Fendi Grip Pop Mini",
-      "price": "N/A",
-      "retailer_link": "https://www.fendi.com/us/fendi-grip-pop-mini"
+      "name": "Acqua Di Gio",
+      "imageUrl": "https://www.giorgioarmanibeauty-usa.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-masterCatalog_GAB/default/dw0d3f1446/images/hi-res/Acqua-Di-Gio-Eau-De-Toilette.png?sw=325&sh=325&sm=fit&q=70",
+      "retailers": [
+        {
+          "name": "Official Giorgio Armani",
+          "url": "https://www.giorgioarmanibeauty-usa.com/products/acqua-di-gio-eau-de-toilette",
+          "price": 130.00
+        },
+        {
+          "name": "Sephora",
+          "url": "https://www.sephora.com/product/acqua-di-gio-P387710",
+          "price": 130.00
+        }
+      ]
     },
     {
-      "name": "Gucci Diana 2001",
-      "price": "N/A",
-      "retailer_link": "https://www.gucci.com/us/en/pr/women/handbags/womens-handbags"
-    },
-    {
-      "name": "Prada Re-Edition 2000",
-      "price": "$1,250",
-      "retailer_link": "https://www.prada.com/us/en/men/bags.html"
-    },
-    {
-      "name": "Chanel 22 Bag",
-      "price": "N/A",
-      "retailer_link": "https://www.chanel.com/us/fashion/p/F68272Y25123N6134/chanel-22-bag/"
+      "name": "Chanel No 5",
+      "imageUrl": "https://www.chanel.com/images/q_auto,f_auto,fl_lossy,dpr_auto/w_600/p/108140-01-no5-eau-de-parfum-spray.png",
+      "retailers": [
+        {
+          "name": "Official Chanel",
+          "url": "https://www.chanel.com/us/fragrance/p/108140/no5-eau-de-parfum-spray",
+          "price": 135.00
+        },
+        {
+          "name": "Macy's",
+          "url": "https://www.macys.com/shop/product/chanel-no-5-eau-de-parfum-spray-35-oz?ID=5430234",
+          "price": 135.00
+        }
+      ]
     }
   ]
 }
